@@ -23,9 +23,9 @@
 ## 📂 My Projects  
 | **Project Name**   | **Description**                | **Technologies**        | **Link**  |
 |---------------------|--------------------------------|--------------------------|-----------|
-| Simple Calculator   | A functional web calculator.  | HTML, CSS, JavaScript    | [View](#) |
-| E-commerce Website  | Responsive e-commerce site.   | HTML, CSS, JavaScript    | [View](#) |
-| To-Do List          | Minimalist task manager.      | HTML, CSS, JavaScript    | [View](#) |
+| Simple Calculator   | A functional web calculator.  | HTML, CSS, JavaScript    | [View](https://www.linkedin.com/posts/swapnil-verma-2361482a6_calculator-internpe-frontend-activity-7258738937240674304-bSds?utm_source=share&utm_medium=member_android) |
+| E-commerce Website  | Responsive e-commerce site.   | HTML, CSS, JavaScript    | [View](https://www.linkedin.com/posts/swapnil-verma-2361482a6_webdevelopment-frontenddevelopment-html-activity-7265747115803377666-YdC7?utm_source=share&utm_medium=member_android) |
+| To-Do List          | Minimalist task manager.      | HTML, CSS, JavaScript    | [View](https://www.linkedin.com/posts/swapnil-verma-2361482a6_webdevelopment-frontenddevelopment-html-activity-7263623662275055616-T6Lj?utm_source=share&utm_medium=member_android) |
 
 ---
 
