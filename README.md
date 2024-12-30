@@ -1,5 +1,3 @@
-# Swapnil
-👋 Hi, I'm Swapnil Verma! Aspiring Frontend Developer | UI/UX Enthusiast  I specialize in creating user-friendly websites using HTML, CSS, and JavaScript.📜 Certified in HTML, CSS, and UI/UX Design. 🚀  Let’s collaborate and build something amazing! 😊
 <!-- Add a banner or header image -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile" alt="GitHub Banner">
